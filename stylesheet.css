@@ -1,0 +1,26 @@
+html * {
+  margin: 0;
+  padding: 0;
+  border-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100;300;400;500;700;900&display=swap');
+
+#cabecalho {
+  background-color: rgb(255, 255, 255);
+  height: 20%;
+}
+
+#conteudo {
+  background-color: rgba(226, 183, 91, 0.301);
+  height: 60%;
+}
+
+#rodape{
+  background-color: white;
+  height: 20%
+}
+
+.imagemfundo {
+  image-orientation:  inherit;
+}
